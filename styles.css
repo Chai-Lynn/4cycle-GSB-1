@@ -71,6 +71,9 @@ a {
     display: inline-flex; /* 버튼과 같은 스타일로 유지 */
 }
 
+.coffee-button-link {
+    display: inline-flex; /* 버튼과 같은 스타일로 유지 */
+}
 
 .feedback-button {
     display: inline-flex;
